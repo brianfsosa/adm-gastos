@@ -7,6 +7,7 @@ function App() {
 
   return (
     <div className="flex">
+      <p>as</p>
       <Nav />
       <Table />
     </div>
